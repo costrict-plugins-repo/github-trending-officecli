@@ -1,0 +1,11 @@
+{
+  "name": "officecli",
+  "description": "Generate PPTX, DOCX, XLSX, and report workflows with OfficeCLI through a Claude Code skill",
+  "version": "0.1.0",
+  "author": {
+    "name": "officecli"
+  },
+  "homepage": "https://officecli.io/claude-code-codex-office-skills",
+  "repository": "https://github.com/officecli/officecli",
+  "license": "MIT"
+}
